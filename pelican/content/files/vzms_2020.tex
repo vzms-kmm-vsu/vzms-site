@@ -1,44 +1,35 @@
-\documentclass[a5paper,12pt,openbib]{report}
-\usepackage{amsmath}
+\documentclass[a5paper, 12pt, openbib]{report}
 \usepackage[cp1251]{inputenc}
-\usepackage[english,russian]{babel}
-\usepackage{amsfonts}
-\usepackage{amsfonts,amssymb}
-\usepackage{amssymb}
-\usepackage{latexsym}
-\usepackage{euscript}
-\usepackage{enumerate}
-\usepackage{graphics}
-\usepackage[dvips]{graphicx}
-\usepackage{geometry}
-\usepackage{wrapfig}
+\usepackage[english, russian]{babel}
+\usepackage[colorlinks=true, urlcolor=blue]{hyperref}
 
-\geometry{verbose,a5paper,tmargin=1.75cm,bmargin=2.1cm,lmargin=1.75cm,rmargin=1.75cm}
+\usepackage[tmargin=1.75cm,
+            bmargin=2.1cm,
+            lmargin=1.75cm,
+            rmargin=1.75cm]{geometry}
 
 \righthyphenmin=2
-
-
-\begin{document}
 
 \clubpenalty=10000
 \widowpenalty=10000
 
+\begin{document}
 
+\begin{center}
+    {\bf НАЗВАНИЕ СТАТЬИ}
 
-\begin{center}{ \bf НАЗВАНИЕ СТАТЬИ}\\
-{\it И.И. Иванов } \\
-(Москва; {\it mail@mail.ru})
+    {\it И.И. Иванов}
+
+    (Москва; {\it mail@mail.ru})
 \end{center}
-\addcontentsline{toc}{section}{Иванов И.И.}
 
+\addcontentsline{toc}{section}{Иванов И.И.}
 
 Текст статьи
 
-
-
 Объем статей --- 3 страницы (для лекторов --- до 5 стр.),
 выполненная в редакторе LaTeX по образцу, который можно скачать на
-сайте vzms.kmm-vsu.ru.
+сайте \href{https://vzms.kmm-vsu.ru}{vzms.kmm-vsu.ru}.
 
 При оформлении текста тезисов просим не переопределять команды и не
 вводить свои макросы, а также не использовать автоматическую
@@ -48,18 +39,19 @@
 Утверждения типа теорем и лемм следует оформлять по следующему
 образцу.
 
-\textbf{Теорема~1.} {\it Пример оформления определений и утверждений
-типа теорем, лемм.}
+\textbf{Теорема~1.} {\it Пример оформления определений и утверждений типа теорем, лемм.}
 
 \begin{center}
-Файл должен компилироваться без ошибок \\
-и переполнений ("overfull").
+    Файл должен компилироваться без ошибок \\
+    и переполнений (<<overfull>>).
 \end{center}
 
-\textbf{Электронную версию тезисов необходимо выслать по электронному адресу vzms@mail.ru.}
+\begin{center}
+    \textbf{Электронную версию тезисов необходимо выслать по электронному адресу vzms@mail.ru.}
+\end{center}
 
-%%%% ОФОРМЛЕНИЕ СПИСКА ЛИТЕРАТУРЫ %%%
-\smallskip \centerline{\bf Литература}\nopagebreak
+% Оформление списка литературы
+\smallskip \centerline {\bf Литература} \nopagebreak
 
 1. {\it Крейн С.Г.} Линейные дифференциальные уравнения в банаховом пространстве. М.: Наука, 1987. 408 с.
 
