@@ -1,2 +1,2 @@
-# vzms-kmm-vsu
-https://vzms.kmm-vsu.ru/
+# Сайт ВЗМШ им. С.Г. Крейна
+Генерация сайта: `docker-compose run --rm pelican`
