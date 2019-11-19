@@ -1,11 +1,11 @@
-Title: Контакты
+Title: Contacts
 Order: 6
 
-**Адрес Оргкомитета:** 394018, г. Воронеж, Университетская пл. 1, ауд. 322.
+**Organizing Committee Address:** 394018, Voronezh, Mathematical Faculty, VSU, 1 Universitetskaya pl room 322.
 
-**Телефоны:**
+**Telephones:**
 
-* 8 (920) 255-62-14 - Костин Дмитрий Владимирович
-* 8 (473) 220-83-64 - Рогулькина Елена Александровна, Подтынникова Наталья Борисовна.
+* 8 (920) 255-62-14 - Kostin Dmitrij Vladimirovich
+* 8 (473) 220-83-64 - Rogulkina Elena Aleksandrovna, Podtynnikova Natalya Borisovna.
 
 **E-mail:** [vzms@mail.ru](mailto:vzms@mail.ru)
