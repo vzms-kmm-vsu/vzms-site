@@ -1,69 +1,69 @@
-Title: Оргкомитет
+Title: Organizers
 Order: 3
 
-**<center>Организаторы:</center>**
-*<center>Воронежский Государственный Университет</center>*
-*<center>Математический Институт РАН им. В.А. Стеклова</center>*
-*<center>Московский Государственный Университет им. М.В. Ломоносова</center>*
-*<center>АО «Турбонасос»</center>*
+**<center>Organizers:</center>**
+*<center>Voronezh State University</center>*
+*<center>Steklov Mathematical Institute of the Russian Academy Of Sciences</center>*
+*<center>Lomonosov Moscow State University</center>*
+*<center>JSC «Turbonasos»</center>*
 
-**<center>Оргкомитет:</center>**
+**<center>Organizing committee:</center>**
 
-**Председатель:** Ендовицкий Д.А., профессор, ректор ВГУ;
+**Chairman:** Endovickij D.A., Professor, Rector of Voronezh State University;
 
-**Сопредседатели:**
+**Co-chairs:**
 
-* Маслов В.П., академик РАН,
-* Костин В.А., профессор;
+* Maslov V.P., academician of RAS,
+* Kostin V.A., professor;
 
-**Заместители председателя:**
+**Vice Chairmen:**
 
-* Баев А.Д.
-* Валюхов С.Г.
-* Семенов Е.М.
+* Baev A.D.
+* Valyuxov S.G.
+* Semenov E.M.
 
-**Члены оргкомитета:**
+**Members of organizing committee:**
 
-* Алхутов Ю.А.
-* Арутюнов А.В.
-* Гликлих Ю.Е.
-* Глушко А.В.
-* Звягин В.Г.
-* Каменский М.И.
-* Кожанов А.И.
-* Козякин В.С.
-* Корнев С.В.
-* Костин А.В.
-* Красносельский А.М.
-* Кретинин А.В.
-* Ляхов Л.Н.
-* Новиков И.Я.
-* Орлов В.П.
-* Прядко И.Н.
-* Рачинский Д.
-* Сабитов К.Б.
-* Фоменко Т.Н.
-* Юмагулов М.Г.
+* Alxutov Yu.A.
+* Arutyunov A.V.
+* Gliklix Yu.E.
+* Glushko A.V.
+* Zvyagin V.G.
+* Kamenskij M.I.
+* Kozhanov A.I.
+* Kozyakin V.S.
+* Kornev S.V.
+* Kostin A.V.
+* Krasnoselskij A.M.
+* Kretinin A.V.
+* Lyaxov L.N.
+* Novikov I.Ya.
+* Orlov V.P.
+* Pryadko I.N.
+* Rachinskij D.
+* Sabitov K.B.
+* Fomenko T.N.
+* Yumagulov M.G.
 * Kravchenko, V.V. (México)
 
-**<center>Программный комитет:</center>**
+**<center>Program committee:</center>**
 
-**Председатель:** Фоменко А.Т., академик РАН (Москва);
+**Chairman:** Fomenko A.T., academician of RAS, (Moskva);
 
-**Члены программного комитета:**
+**Program committee members:**
 
-* Ведюшкина В.В. (Москва)
-* Вирченко Ю.П. (Белгород)
-* Гольдман М.Л. (Москва)
-* Кадменский С.Г. (Воронеж)
-* Мухамадиев Э.М.(Вологда)
-* Обуховский В.В. (Воронеж)
-* Пискарев С.И. (Москва)
-* Поветко В.Н. (Воронеж)
-* Перов А.И. (Воронеж)
-* Пятков С.Г. (Ханты-Мансийск)
-* Ряжских В.И. (Воронеж)
-* Солдатов А.П. (Белгород)
-* Сурначев М.Д. (Москва)
-* Фёдоров В.Е. (Челябинск)
-* Костин Д.В. (Воронеж), ученый секретарь
+* Vedyushkina V.V. (Moskva)
+* Virchenko Yu.P. (Belgorod)
+* Goldman M.L. (Moskva)
+* Kadmenskij S.G. (Voronezh)
+* Muxamadiev E.M.(Vologda)
+* Obuxovskij V.V. (Voronezh)
+* Piskarev S.I. (Moskva)
+* Povetko V.N. (Voronezh)
+* Perov A.I. (Voronezh)
+* Pyatkov S.G. (Xanty-Mansijsk)
+* Ryazhskix V.I. (Voronezh)
+* Soldatov A.P. (Belgorod)
+* Surnachev M.D. (Moskva)
+* Fyodorov V.E. (Chelyabinsk)
+* Kostin D.V. (Voronezh), scientific secretary
