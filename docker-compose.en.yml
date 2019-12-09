@@ -1,0 +1,10 @@
+version: "3"
+services:
+  pelican:
+    build: .
+    volumes:
+      - ./pelican:/pelican
+      - ./output:/pelican/output
+      - ./en/theme:/pelican/theme
+      - ./en/pages:/pelican/content/pages
+      - ./en/pelicanconf.py:/pelican/pelicanconf.py
