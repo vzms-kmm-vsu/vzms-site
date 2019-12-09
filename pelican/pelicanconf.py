@@ -1,6 +1,6 @@
 # coding: utf-8
 import csv
-from os import listdir
+from os import listdir, scandir
 
 SITENAME = {
     'full': 'Воронежская зимняя математическая школа',
@@ -23,8 +23,8 @@ PAGE_ORDER_BY = 'order'
 
 STATIC_PATHS = ['files', 'albums']
 
-PHOTOS = [(x, listdir('content/albums/' + x))
-          for x in listdir('content/albums')]
+PHOTOS = [(x.name, listdir('content/albums/' + x.name))
+          for x in scandir('content/albums') if x.is_dir()]
 
 with open('participants.csv', encoding="utf-8") as csvfile:
     reader = csv.reader(csvfile)
