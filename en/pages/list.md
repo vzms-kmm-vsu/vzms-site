@@ -1,4 +1,4 @@
-Title: Зарегистрированные участники
+Title: Members
 Order: 3
 Parent: information
 Template: list

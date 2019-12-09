@@ -1,4 +1,4 @@
-Title: Организационный взнос
+Title: Arrangement fee
 Order: 2
 Parent: information
 

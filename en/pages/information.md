@@ -1,4 +1,4 @@
-Title: Информация для участников
+Title: Information
 Order: 4
 Parent: Yes
 

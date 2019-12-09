@@ -1,4 +1,4 @@
-Title: Registration Form
+Title: Registration form
 Order: 1
 ShowTitle: 0
 

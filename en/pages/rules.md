@@ -1,4 +1,4 @@
-Title: Правила оформления
+Title: Rules
 Order: 1
 Parent: information
 ShowTitle: 0
