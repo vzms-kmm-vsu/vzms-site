@@ -18,6 +18,12 @@ jobs:
           GDRIVE_DOCUMENT_ID: ${{ secrets.GDRIVE_DOCUMENT_ID }}
           GDRIVE_SHEET_ID: ${{ secrets.GDRIVE_SHEET_ID }}
 
+      - name: Build EN verison of site
+        run: docker-compose -f docker-compose.en.yml run --rm pelican
+        env:
+          GDRIVE_DOCUMENT_ID: ${{ secrets.GDRIVE_DOCUMENT_ID }}
+          GDRIVE_SHEET_ID: ${{ secrets.GDRIVE_SHEET_ID }}
+
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

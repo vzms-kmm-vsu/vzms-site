@@ -4,7 +4,7 @@ services:
     build: .
     volumes:
       - ./pelican:/pelican
-      - ./output:/pelican/output
+      - ./output/en:/pelican/output
       - ./en/theme:/pelican/theme
       - ./en/pages:/pelican/content/pages
       - ./en/pelicanconf.py:/pelican/pelicanconf.py
