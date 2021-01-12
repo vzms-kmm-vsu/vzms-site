@@ -1,7 +1,7 @@
 Title: Information
 Order: 0
 Template: main-page
-url: /
+url: /en/
 save_as: index.html
 
 **<center>Dear colleagues!</center>**
