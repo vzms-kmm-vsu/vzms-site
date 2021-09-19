@@ -11,7 +11,7 @@ SITEURL = 'vzms.kmm-vsu.ru'
 AUTHOR = 'ijustbsd@gmail.com'
 DESCRIPTION = 'Воронежская зимняя математическая школа C.Г. Крейна'
 KEYWORDS = 'Воронежская зимняя математическая школа, ВЗМШ'
-YEAR = '2020'
+YEAR = '2022'
 
 THEME = 'theme'
 
