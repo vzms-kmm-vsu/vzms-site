@@ -91,6 +91,10 @@ a.dropdown-item:active {
     height: 100%;
 }
 
+.content > div:first-child {
+    text-align: justify;
+}
+
 .card-header {
     background: #fafdff;
     color: #3f7baa;
