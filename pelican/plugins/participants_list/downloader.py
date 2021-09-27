@@ -15,5 +15,5 @@ def download_participants_csv(csv_out: str) -> None:
         logger.error("Couldn't get participants list!")
         raise
 
-    with open(csv_out, 'wb') as f:
+    with open(csv_out, "wb") as f:
         f.write(r.content)

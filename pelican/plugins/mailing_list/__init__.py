@@ -20,4 +20,4 @@ def register():
     signals.initialized.connect(update_mailing_list)
 
 
-__all__ = ('register',)
+__all__ = ("register",)
