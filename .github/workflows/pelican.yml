@@ -1,6 +1,10 @@
 name: Pelican CI
 
-on: [push, pull_request, repository_dispatch]
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
 
 jobs:
 
@@ -15,14 +19,18 @@ jobs:
       - name: Build the site
         run: docker-compose run --rm pelican
         env:
+          PARTICIPANTS_RAW_CSV: ${{ secrets.PARTICIPANTS_RAW_CSV }}
+          PARTICIPANTS_CSV: ${{ secrets.PARTICIPANTS_CSV }}
           GDRIVE_DOCUMENT_ID: ${{ secrets.GDRIVE_DOCUMENT_ID }}
           GDRIVE_SHEET_ID: ${{ secrets.GDRIVE_SHEET_ID }}
+          MAILGUN_API_KEY: ${{ secrets.MAILGUN_API_KEY }}
+          MAILGUN_MAILING_LIST: ${{ secrets.MAILGUN_MAILING_LIST }}
 
-      - name: Build EN verison of site
-        run: docker-compose -f docker-compose.en.yml run --rm pelican
-        env:
-          GDRIVE_DOCUMENT_ID: ${{ secrets.GDRIVE_DOCUMENT_ID }}
-          GDRIVE_SHEET_ID: ${{ secrets.GDRIVE_SHEET_ID }}
+      # - name: Build EN verison of site
+      #   run: docker-compose -f docker-compose.en.yml run --rm pelican
+      #   env:
+      #     GDRIVE_DOCUMENT_ID: ${{ secrets.GDRIVE_DOCUMENT_ID }}
+      #     GDRIVE_SHEET_ID: ${{ secrets.GDRIVE_SHEET_ID }}
 
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3

@@ -1,12 +1,16 @@
-FROM alpine
+FROM alpine:3.14
 
-COPY exec.sh /exec.sh
+WORKDIR /app
+
+COPY requirements.txt requirements.txt
 
 RUN \
-    chmod +x /exec.sh && \
     apk add --update --no-cache python3 cmd:pip3 && \
-    pip3 install --upgrade pip && \
-    pip3 install pelican markdown && \
-    rm -rf /var/cache/apk/*
+    pip3 install --no-cache-dir --upgrade pip && \
+    pip3 install --no-cache-dir --ignore-installed -r requirements.txt
 
-CMD ["/exec.sh"]
+COPY pelican pelican
+
+WORKDIR /app/pelican
+
+CMD ["pelican", "content"]
