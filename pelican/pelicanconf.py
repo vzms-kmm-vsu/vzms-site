@@ -1,5 +1,4 @@
 # coding: utf-8
-from os import listdir, scandir
 
 SITENAME = {
     "full": "Воронежская зимняя математическая школа",
@@ -23,13 +22,7 @@ PAGE_SAVE_AS = "{slug}.html"
 
 PAGE_ORDER_BY = "order"
 
-STATIC_PATHS = ["files", "albums"]
-
-PHOTOS = [
-    (x.name, listdir("content/albums/" + x.name))
-    for x in scandir("content/albums")
-    if x.is_dir()
-]
+STATIC_PATHS = ["files"]
 
 # Disable generations some files
 ARCHIVES_SAVE_AS = None
