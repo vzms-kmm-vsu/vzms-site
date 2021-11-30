@@ -1,11 +1,11 @@
 Title: Contacts
 Order: 6
 
-**Organizing Committee Address:** 394018, Voronezh, Mathematical Faculty, VSU, 1 Universitetskaya pl room 322.
+**Organizing Committee Address:** 394018, Voronezh, Universitetskaya square, classroom 322.
 
-**Telephones:**
+**Contact phones:**
 
-* 8 (920) 255-62-14 - Kostin Dmitrij Vladimirovich
-* 8 (473) 220-83-64 - Rogulkina Elena Aleksandrovna, Podtynnikova Natalya Borisovna.
+* 8 (920) 255-62-14 - Kostin Dmitry Vladimirovich
+* 8 (473) 220-83-64 - Podtynnikova Natalia Borisovna.
 
 **E-mail:** [vzms@mail.ru](mailto:vzms@mail.ru)

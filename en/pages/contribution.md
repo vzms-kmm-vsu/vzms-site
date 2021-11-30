@@ -1,23 +1,8 @@
-Title: Arrangement fee
+Title: Registration fee
 Order: 2
 Parent: information
 
-**Организационный взнос** (включающий стоимость публикации статей объемом до 3 стр. и один
-экземпляр сборника материалов): 1000 руб. (при безналичном переводе 1300 руб.);
+**Registration fee** (including the publication cost of articles up to 3 pages and one copy of the Proceedings): 1500 rubles
+(in case of non-cash payment 2000 rubles);
 
-В случае поддержки школы грантом РФФИ Оргкомитет планирует оказать финансовую поддержку
-студентам, аспирантам и молодым ученым.
-
-**Банковские реквизиты для безналичных расчетов:**
-
-**Получатель:**  
-ИНН 3666029505  
-КПП 366601001  
-УФК по Воронежской области (ФГБОУ ВПО «ВГУ», л/с 20316X50290)  
-[Внимание! Буква «X» в л/с – латинская!]
-
-**Банк получателя:**  
-ОТДЕЛЕНИЕ ВОРОНЕЖ  
-Сч. № 40501810920072000002  
-БИК 042007001  
-Отделение Воронеж
+Bank details and templates of documents for non-cash payments can be obtained by mail: [vzms@mail.ru](mailto:vzms@mail.ru)

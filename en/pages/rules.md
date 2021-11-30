@@ -1,12 +1,10 @@
-Title: Rules
+Title: Theses design rules
 Order: 1
 Parent: information
 ShowTitle: 0
 
-#Правила оформления тезисов
+Articles typed in LaTeX2e (MiKTeX, WinEdit) using a [style file](https://github.com/vzms-kmm-vsu/vzms-theses/releases/latest/download/vzms_examples.zip) should be sent by **December 15** by e-mail or to the specified address of the Organizing Committee. The decision on the publication of articles prepared in other editors will be made on an individual basis.
 
-Статьи, набранные в системе LaTeX2e (MIKTEX, WinEdit) с использованием [стилевого файла](files/vzms_2020.tex), необходимо прислать до **15 декабря** по электронной почте или на указанный адрес оргкомитета. Решение о публикации статей, подготовленных в иных редакторах, будет приниматься индивидуально.
+The volume of the articles is **up to 3 pages** (up to 5 pages for lecturers). The publication of articles up to 8 pages for an additional fee of 150 rubles for each additional page is possible.
 
-Объем статей **до 3 стр.** (для лекторов до 5 стр.). Возможна публикация статей объемом до 8 стр. за дополнительную плату – 150 руб. за каждую дополнительную страницу.
-
-**Убедительная просьба соблюдать все требования к оформлению статей, в противном случае Оргкомитет оставляет за собой право не включить их в сборник!**
+**Please observe all the requirements for the design of articles, otherwise the Organizing Committee reserves the right not to include them in the collected volume!**

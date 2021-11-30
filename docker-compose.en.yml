@@ -1,10 +1,17 @@
-version: "3"
+version: "3.9"
 services:
   pelican:
     build: .
     volumes:
-      - ./pelican:/pelican
-      - ./output/en:/pelican/output
-      - ./en/theme:/pelican/theme
-      - ./en/pages:/pelican/content/pages
-      - ./en/pelicanconf.py:/pelican/pelicanconf.py
+      - ./pelican:/app/pelican
+      - ./output/en:/app/pelican/output
+      - ./en/theme:/app/pelican/theme
+      - ./en/pages:/app/pelican/content/pages
+      - ./en/pelicanconf.py:/app/pelican/pelicanconf.py
+    environment:
+      - PARTICIPANTS_RAW_CSV=${PARTICIPANTS_RAW_CSV}
+      - PARTICIPANTS_CSV=${PARTICIPANTS_CSV}
+      - GDRIVE_DOCUMENT_ID=${GDRIVE_DOCUMENT_ID}
+      - GDRIVE_SHEET_ID=${GDRIVE_SHEET_ID}
+      - MAILGUN_API_KEY=${MAILGUN_API_KEY}
+      - MAILGUN_MAILING_LIST=${MAILGUN_MAILING_LIST}

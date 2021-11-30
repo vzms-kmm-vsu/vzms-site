@@ -6,21 +6,28 @@ save_as: index.html
 
 **<center>Dear colleagues!</center>**
 
-We invite you to take part in the next Voronezh Winter Mathematical School (VWMS-2020) with is an International Scientific Conference founded by S.G. Krein. VWMS-2020 will be dedicated to the centenary of Mark Aleksandrovich Krasnoselskii . It will take place in the sity of Voronezh (Russia) from **25-th** (arrival day) to **30-th** (departure day) of **January 2020**.
+We are pleased to invite you to participate in the next Voronezh Winter Mathematical Krein School to be held in the city of Voronezh from **January 22** (opening) to **January 26** (departure), 2022.
 
-The work of VWMS-2020 assumes lectures (45 min.), talks (30 min.), and reports (15 min.) on the following principal areas:
+The School will be held in a convenient combined mode: both face-to-face and remote participation options are possible.
+
+The work of the Voronezh Winter Mathematical School - 2022 involves lectures (45 min), reports (30 min) and presentations (15 min) in the following main areas:
 
 * Theory of functions and functional analysis;
 * Actual problems of differential equations;
-* Nonlinear analysis and mathematical modelling;
+* Non-linear analysis and mathematical modeling;
 * Geometry, topology and equations of mathematical physics;
-* History of mathematics;
-* Mathematical models in the theory and the development of electric motor hydraulic pumps (electric pump units) and systems.
+* History of Mathematics;
+* Mathematical models in the theory and design of electric pumping units and systems;
+* Mathematical models and machine learning methods.
 
-By the beginning of the Conference, we plan to issue the collection “Materials of the International Conference «Voronezh Winter Mathematical School by S.G.Krein – 2020»” consisting of papers of lectures and reports.
+Proceedings of the international conference “Voronezh winter mathematical Krein school – 2022” composed of lectures and reports are planned to be published by the conference beginning.
 
-Below you can see [the rules for the authors of papers and the style file](rules)
+[Article design rules and style file](rules)
 
-The deadline for sending papers (or abstracts) is the **15-st of December 2019**. The volume of a paper (abstract) is up to 3 pages. Please write your questions to the following E-mail, if any.
+Deadline for submitting articles is **December 15**.
 
-You can receive any additional information by E-mail: [vzms@mail.ru](mailto:vzms@mail.ru)
+For prompt communication and and getting news  we launch a newsletter through Telegram channel "VWMS News 2022": [t.me/vzms2022](https://t.me/vzms2022). You do NOT need to register in Telegram or install IT. News published in the channel will BE automatically sent to the email addresses you provided during registration. If for some reason you do not plan to take part in the conference, you can unsubscribe from the mailing list (the link is in the letter).
+
+[Materials of previous years](history)
+
+Additional information can be found in the Telegram-channel (in the comments to the messages) or GOT by E-mail: [vzms@mail.ru](mailto:vzms@mail.ru)
