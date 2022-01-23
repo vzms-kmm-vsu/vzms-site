@@ -2,11 +2,7 @@ Title: История
 Order: 5
 
 [Фото](https://drive.google.com/drive/folders/1n_Mwl9wuVI7Dnm_G3l-HTgjbs4sstFox?usp=sharing)  
-[Воспоминания о С.Г. Крейне (.pdf)](files/history/memories_about_krein.pdf)  
-[Воронежская зимняя математическая школа С.Г. Крейна - 2008 (.pdf)](files/history/vzms_2008.pdf)
-
-[Ученые-математики со всей России собрались в Воронеже](http://www.vsu.ru/ru/news/feed/2016/01/6582)  
-[В ВГУ стартовала работа «Воронежской зимней математической школы С.Г. Крейна – 2018»](https://www.vsu.ru/ru/news/feed/2018/01/9212)
+[Воспоминания о С.Г. Крейне (.pdf)](files/history/memories_about_krein.pdf)
 
 #### ВЗМШ 2004
 
@@ -22,6 +18,7 @@ Order: 5
 
 * [Участники ВЗМШ 2008 (.pdf)](files/history/2008/participants_08.pdf)
 * [Сборник ВЗМШ 2008 (.pdf)](files/history/2008/vzms_08.pdf)
+* [Воронежская зимняя математическая школа С.Г. Крейна - 2008 (.pdf)](files/history/vzms_2008.pdf)
 
 #### ВЗМШ 2010
 
@@ -37,10 +34,15 @@ Order: 5
 * [Участники ВЗМШ 2014 (.pdf)](files/history/2014/participants_14.pdf)
 * [Сборник ВЗМШ 2014 (.pdf)](files/history/2014/vzms_14.pdf)
 
+#### ВЗМШ 2016
+
+* [Ученые-математики со всей России собрались в Воронеже](http://www.vsu.ru/ru/news/feed/2016/01/6582)
+
 #### ВЗМШ 2018
 
 * [Участники ВЗМШ 2018 (.pdf)](files/history/2018/participants_18.pdf)
 * [Сборник ВЗМШ 2018 (.pdf)](files/history/2018/vzms_18.pdf)
+* [В ВГУ стартовала работа «ВЗМШ С.Г. Крейна – 2018»](https://www.vsu.ru/ru/news/feed/2018/01/9212)
 
 #### ВЗМШ 2020
 
