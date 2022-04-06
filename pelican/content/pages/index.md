@@ -4,8 +4,7 @@ Template: main-page
 url: /
 save_as: index.html
 
-[Сборник материалов конференции 2022 года (.pdf)](https://github.com/vzms-kmm-vsu/vzms-theses/releases/latest/download/vzms2022.pdf)  
-(корректура, идет процесс утверждения)
+<center>[Сборник материалов конференции 2022 года (.pdf)](files/vzms2022.pdf)<center>
 
 **<center>Уважаемые участники!</center>**
 
