@@ -6,15 +6,15 @@ SITENAME = {
 }
 SITEURL = "vzms.kmm-vsu.ru"
 
-AUTHOR = "ijustbsd@gmail.com"
+AUTHOR = "vzms@mail.ru"
 DESCRIPTION = "Воронежская зимняя математическая школа C.Г. Крейна"
 KEYWORDS = "Воронежская зимняя математическая школа, ВЗМШ"
-YEAR = "2022"
+YEAR = "2023"
 
 THEME = "theme"
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["participants_list", "mailing_list"]
+PLUGINS = ["participants_list"]
 
 SLUGIFY_SOURCE = "basename"
 PAGE_URL = "{slug}"

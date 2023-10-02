@@ -48,3 +48,8 @@ Order: 5
 
 * [Участники ВЗМШ 2020 (.pdf)](files/history/2020/participants_20.pdf)
 * [Сборник ВЗМШ 2020 (.pdf)](files/history/2020/vzms_20.pdf)
+
+
+#### ВЗМШ 2022
+
+* [Сборник ВЗМШ 2022 (.pdf)](files/history/2022/vzms_22.pdf)
