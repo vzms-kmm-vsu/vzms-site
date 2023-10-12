@@ -9,7 +9,7 @@ SITEURL = "vzms.kmm-vsu.ru"
 AUTHOR = "vzms@mail.ru"
 DESCRIPTION = "Воронежская зимняя математическая школа C.Г. Крейна"
 KEYWORDS = "Воронежская зимняя математическая школа, ВЗМШ"
-YEAR = "2023"
+YEAR = "2024"
 
 THEME = "theme"
 
