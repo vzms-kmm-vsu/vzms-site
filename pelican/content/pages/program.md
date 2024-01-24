@@ -1,6 +1,6 @@
 Title: Программа конференции
 Order: 2
-Status: hidden
+<!-- Status: hidden -->
 
 [Программа конференции (.pdf)](files/program.pdf)
 
