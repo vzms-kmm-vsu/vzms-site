@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build the site
-        run: docker-compose run -rm pelican
+        run: docker-compose run --rm pelican
         env:
           PARTICIPANTS_RAW_CSV: ${{ secrets.PARTICIPANTS_RAW_CSV }}
           PARTICIPANTS_CSV: ${{ secrets.PARTICIPANTS_CSV }}
