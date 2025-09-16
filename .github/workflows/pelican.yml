@@ -27,7 +27,7 @@ jobs:
           MAILGUN_MAILING_LIST: ${{ secrets.MAILGUN_MAILING_LIST }}
 
       # - name: Build EN verison of the site
-      #   run: docker-compose -f docker-compose.en.yml run --rm pelican
+      #   run: docker-compose -f docker-compose.en.yml run -rm pelican
       #   env:
       #     PARTICIPANTS_RAW_CSV: ${{ secrets.PARTICIPANTS_RAW_CSV }}
       #     PARTICIPANTS_CSV: ${{ secrets.PARTICIPANTS_CSV }}
